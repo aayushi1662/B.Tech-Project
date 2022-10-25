@@ -5,3 +5,9 @@
   <li>This tool path trajectory gives desired final product from the given raw material. Code is developed using MATLAB.</li>
   <li>This algorithm eliminates the need for contour evaluation by exploiting simple concept of topology.</li>
 </ul>
+## Snippets of tool path for bracket model-
+![image](https://user-images.githubusercontent.com/67185267/197701919-31d9b2ec-0982-4e9c-b5ca-a10a15c03203.png)
+## Snippets of tool path for bunny model-
+![image](https://user-images.githubusercontent.com/67185267/197702079-0ed3aeb5-e21d-4ff5-9a6d-a4b90f8cd2fc.png)
+## 3D representation of tool path lines-
+![image](https://user-images.githubusercontent.com/67185267/197702337-e57f3a27-b7bd-427f-a717-753e29ceb709.png)
