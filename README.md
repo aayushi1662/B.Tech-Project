@@ -10,9 +10,9 @@
 
 ![image](https://user-images.githubusercontent.com/67185267/197704233-2aab0755-03c4-40f6-a364-3af29f0fa01a.png)
 
-## Snippets of tool path for bunny model-
+### Snippets of tool path for bunny model-
 
 ![image](https://user-images.githubusercontent.com/67185267/197702079-0ed3aeb5-e21d-4ff5-9a6d-a4b90f8cd2fc.png)
 
-## 3D representation of tool path lines-
+### 3D representation of tool path lines-
 ![image](https://user-images.githubusercontent.com/67185267/197702337-e57f3a27-b7bd-427f-a717-753e29ceb709.png)
