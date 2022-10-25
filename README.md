@@ -7,7 +7,9 @@
 </ul>
 ## Snippets of tool path for bracket model-
 
-## Snippets of tool path for bunny model-![Screenshot (528)](https://user-images.githubusercontent.com/67185267/197702742-5c7ddb5d-3322-4509-9be5-2f9c52f5a3af.png)
+## Snippets of tool path for bunny model-
+![Screenshot (528)](https://user-images.githubusercontent.com/67185267/197702742-5c7ddb5d-3322-4509-9be5-2f9c52f5a3af.png)
+![Screenshot (529)](https://user-images.githubusercontent.com/67185267/197704027-4fae06f6-5214-434e-9d67-9de5ac6a0b9b.png)
 
 ![image](https://user-images.githubusercontent.com/67185267/197702079-0ed3aeb5-e21d-4ff5-9a6d-a4b90f8cd2fc.png)
 ## 3D representation of tool path lines-
